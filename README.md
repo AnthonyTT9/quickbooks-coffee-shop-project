@@ -1,6 +1,6 @@
 # quickbooks-coffee-shop-project
 
-This self-directed project simulates full-cycle bookkeeping for a fictional small business, **Coffee Corner Shop**, using **QuickBooks Online Accountant**. The simulation spans one full month (January 2025) and includes 20 realistic transactions such as walk-in sales, catering invoices, rent, utilities, advertising, payroll, and inventory purchases.
+This project simulates bookkeeping for a fictional small business, **Coffee Corner Shop**, using **QuickBooks Online Accountant**. The simulation spans one full month (January 2025) and includes 20 realistic transactions such as walk-in sales, catering invoices, rent, utilities, advertising, payroll, and inventory purchases.
 
 # Tools Used
 - QuickBooks Online Accountant
